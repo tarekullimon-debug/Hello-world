@@ -18,6 +18,3 @@ I am learning programming step by step and building my skills for the future.
 - Build Projects
 - Become a Software Engineer in a Big Tech Company
 
----
-
-Feel free to follow my journey! 😊
